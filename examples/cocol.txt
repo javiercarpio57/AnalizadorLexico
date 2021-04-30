@@ -1,0 +1,5 @@
+
+CHR(10)..CHR(50)
+dfaslfasf
+"fasdfasdf"
+(..)
